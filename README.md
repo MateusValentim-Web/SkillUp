@@ -25,14 +25,15 @@ Este projeto demonstra minhas habilidades em **desenvolvimento front-end**, boas
 SkillUp/
 ├── public/              # Arquivos estáticos
 ├── src/
-│   ├── components/      # Componentes reutilizáveis
+│   ├── componentes/     # Componentes reutilizáveis
 │   ├── pages/           # Páginas da aplicação
-│   ├── styles/          # Arquivos CSS
+│   ├── estilos/         # Arquivos CSS
 │   └── App.jsx          # Componente principal
 ├── .husky/              # Configuração Husky
 ├── .commitlintrc.json   # Configuração Commitlint
 ├── package.json
 └── README.md
+
 ## 💡 Como usar
 
 1. Clone o repositório:  
