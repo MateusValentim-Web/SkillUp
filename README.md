@@ -22,6 +22,7 @@ Este projeto demonstra minhas habilidades em **desenvolvimento front-end**, boas
 - **Design responsivo**: Flexbox e Grid Layout  
 - **Deploy opcional**: Vercel / Netlify  
 
+```text
 SkillUp/
 ├── public/              # Arquivos estáticos
 ├── src/
@@ -33,6 +34,7 @@ SkillUp/
 ├── .commitlintrc.json   # Configuração Commitlint
 ├── package.json
 └── README.md
+
 
 ## 💡 Como usar
 
