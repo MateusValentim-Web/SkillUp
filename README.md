@@ -22,20 +22,17 @@ Este projeto demonstra minhas habilidades em **desenvolvimento front-end**, boas
 - **Design responsivo**: Flexbox e Grid Layout  
 - **Deploy opcional**: Vercel / Netlify  
 
-## 📦 Estrutura do projeto
-
 SkillUp/
-├── public/ # Arquivos estáticos
+├── public/              # Arquivos estáticos
 ├── src/
-│ ├── components/ # Componentes reutilizáveis
-│ ├── pages/ # Páginas da aplicação
-│ ├── styles/ # Arquivos CSS
-│ └── App.jsx # Componente principal
-├── .husky/ # Configuração Husky
-├── .commitlintrc.json # Configuração Commitlint
+│   ├── components/      # Componentes reutilizáveis
+│   ├── pages/           # Páginas da aplicação
+│   ├── styles/          # Arquivos CSS
+│   └── App.jsx          # Componente principal
+├── .husky/              # Configuração Husky
+├── .commitlintrc.json   # Configuração Commitlint
 ├── package.json
 └── README.md
-
 ## 💡 Como usar
 
 1. Clone o repositório:  
